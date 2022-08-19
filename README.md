@@ -42,3 +42,6 @@ To avoid the limitation of current system it’s necessary to design anddevelop 
 (c)Quick retrieved and maintenance of data.
 (d)Highly accurate.
 (e)User satisfaction
+
+How to Run the project ?
+Use Turbo C++ for Borland C++. (because the code contains certain functions which are implementing those features)
